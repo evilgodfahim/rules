@@ -1,0 +1,6 @@
+{
+  "name": "Writing Tools",
+  "description": "55 Essential Strategies for Every Writer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
